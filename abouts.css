@@ -1,0 +1,30 @@
+.nyaa
+{
+    background-image: url(https://gentwith.com/wp-content/uploads/2019/04/Vental-Black-Slim-Fit-Suit-2.jpg);
+    padding: 10%;
+    color: bisque;
+    font-size: 30px;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+body
+{
+    text-align: center;
+    font-family: Montserrat;
+}
+footer
+{
+    margin: 10%;
+    background-color: black;
+    color: antiquewhite;
+    font-size: 15px;
+    float: left;
+}
+li
+{
+    display: inline;
+}
+a
+{
+   text-decoration: none;
+}

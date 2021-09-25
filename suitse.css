@@ -1,0 +1,53 @@
+#suno
+{
+    font-weight: bold;
+}
+#juno
+{
+    font-style: italic;
+}
+#kuno
+{
+    color: gray;
+}
+body
+{
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 30px;
+    width: 90%;
+    margin: 0 auto;
+}
+#muno:hover
+{
+    text-shadow: 4px 5px 3px gray;
+}
+li
+{
+  display: inline;
+}
+footer
+{
+    font-size: 15px;
+    float: left;
+    margin: 29%;
+    background-color: black;
+    color: antiquewhite;
+
+}
+@media only screen and (min-width:768px)
+{
+    .bts,.exo,.mx
+    { 
+        width: 25%;
+        float: left;
+        margin: 1%;
+    }
+    .svt,.gsn
+    {
+        width: 15%;
+        float: left;
+        margin: 1%;
+    }
+}
+

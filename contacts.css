@@ -1,0 +1,60 @@
+#geths:hover
+{
+    text-shadow: 4px 5px 3px gray;
+    border-radius: 80px 50px;
+}
+#sail
+{
+    background-color: blueviolet;
+    color: blueviolet;
+    border-radius: 80px 60px;
+    font-size: 20px;
+}
+#sail:hover
+{
+    text-shadow: 4px 5px 3px gray;
+    border-radius: 80px 50px;
+}
+li
+{
+    display: inline;
+}
+a
+{
+   text-decoration: none;
+}
+body
+{
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 30px;
+    width: 90%;
+    margin: 0 auto;
+}
+ul
+{
+  text-align: left;
+  font-size: 20px;
+}
+footer
+{
+    margin: 10%;
+    background-color: black;
+    color: antiquewhite;
+    font-size: 15px;
+    float: left;
+}
+
+@media only screen and (min-width:768px)
+{
+    #geths{ width: 35%;
+        float: left;
+        margin: 1%;}
+        #mappy
+        {
+            width: 30%;
+            float: left;
+            margin: 1%;
+        }
+}
+

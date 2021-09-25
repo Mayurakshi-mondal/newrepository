@@ -1,0 +1,53 @@
+body
+{
+    font-family: montserrant;
+    text-align: center;
+}
+h1
+{
+   font-size: 48pt;
+   color: royalblue;
+   text-decoration: underline;
+}
+p
+{
+    font-size: 16pt;
+}
+h1:hover
+{
+    text-shadow: 4px 5px 3px gray;
+}
+li
+{
+    display: inline;
+}
+a
+{
+   text-decoration: none;
+}
+ul
+{
+    text-align: left;
+}
+footer
+{
+    margin: 10%;
+    background-color: black;
+    color: antiquewhite;
+    font-size: 15px;
+    float: left;
+}
+.yuu
+{
+    width: 100%;
+}
+.mew
+{
+   float: left;
+   width:50%;
+}
+.kyu
+{
+    float: right;
+    width:50%
+}
